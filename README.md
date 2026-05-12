@@ -16,8 +16,8 @@ To master the core pillars of Object-Oriented Programming in Python, including:
 | # | Project Name | Key Concepts Applied | Status |
 |:-:|:------------|:---------------------|:------:|
 | 1 | **Bank Account Suite** | Instances, Class Variables, Class Methods, Static Methods | ✅ Completed |
-| 2 | **HR & Payroll System** | Inheritance, Subclasses, Method Overriding, `super()` | 🚧 In Progress |
-| 3 | **SaaS Subscription Manager** | Encapsulation, Private Attributes, `@property` Decorators | ⏳ Pending |
+| 2 | **HR & Payroll System** | Inheritance, Subclasses, Method Overriding, `super()` | ✅ Completed |
+| 3 | **SaaS Subscription Manager** | Encapsulation, Private Attributes, `@property` Decorators | 🚧 In Progress |
 | 4 | **AI Pipeline Emulator** | Abstraction (ABCs), Magic/Dunder Methods (`__repr__`, `__len__`) | ⏳ Pending |
 
 ## 🛠️ Technologies
